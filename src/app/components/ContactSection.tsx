@@ -31,7 +31,7 @@ export default function ContactSection() {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">Contact Us</h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Ready to explore opportunities with Aviana Group? Get in touch with us today.
+            Ready to explore opportunities with Aviana? Get in touch with us today.
           </p>
         </div>
 
@@ -50,8 +50,9 @@ export default function ContactSection() {
                 <div>
                   <h4 className="text-lg font-semibold mb-2">Head Office</h4>
                   <p className="text-gray-300">
-                    Jl. Sudirman No. 123<br />
-                    Jakarta Pusat 10110<br />
+                    Gd MNC Lantai 4 Blok A-C
+                    Jln Diponegoro 109<br />
+                    Denpasar Barat BALI 80111<br />
                     Indonesia
                   </p>
                 </div>

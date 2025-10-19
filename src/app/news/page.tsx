@@ -152,7 +152,7 @@ export default function NewsPage() {
             News & Insights
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-4xl mx-auto">
-            Stay informed about the latest developments, innovations, and insights from Aviana Group's 
+            Stay informed about the latest developments, innovations, and insights from Aviana Group&apos;s 
             diverse portfolio of businesses across multiple sectors.
           </p>
           <div className="flex flex-wrap justify-center gap-4">

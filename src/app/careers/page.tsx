@@ -235,7 +235,7 @@ export default function CareersPage() {
           </div>
 
           <div className="text-center mt-12">
-            <p className="text-gray-600 mb-4">Don't see the right position? We're always looking for talented individuals.</p>
+            <p className="text-gray-600 mb-4">Don&apos;t see the right position? We&apos;re always looking for talented individuals.</p>
             <button className="bg-gray-200 text-gray-800 px-8 py-3 rounded-md hover:bg-gray-300 font-medium transition-colors">
               Submit General Application
             </button>
@@ -328,7 +328,7 @@ export default function CareersPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-6">Ready to Join Our Team?</h2>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Take the next step in your career and become part of Indonesia's leading multi-sector corporation.
+            Take the next step in your career and become part of Indonesia&apos;s leading multi-sector corporation.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a href="#openings" className="bg-white text-blue-600 px-8 py-3 rounded-md font-semibold hover:bg-gray-100 transition-colors">
