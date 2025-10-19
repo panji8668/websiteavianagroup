@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 import { usePathname } from 'next/navigation';
 
@@ -41,8 +42,15 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <div className="flex items-center">
-            <Link href="/" className="text-2xl font-bold text-blue-900">
-              Aviana
+            <Link href="/" className="flex items-center">
+              <Image
+                src="/logoasa.png"
+                alt="Aviana Group"
+                width={120}
+                height={50}
+                className="h-8 w-auto"
+                priority
+              />
             </Link>
           </div>
 

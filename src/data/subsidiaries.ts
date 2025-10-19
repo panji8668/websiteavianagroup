@@ -13,6 +13,7 @@ export interface Subsidiary {
     website?: string;
   };
   established: string;
+  operationalStatus: 'Beroperasi' | 'Belum beroperasi';
 }
 
 export const subsidiaries: Subsidiary[] = [
@@ -42,7 +43,8 @@ export const subsidiaries: Subsidiary[] = [
       email: 'info@avianatech.co.id',
       website: 'www.avianatech.co.id'
     },
-    established: '2015'
+    established: '2015',
+    operationalStatus: 'Beroperasi'
   },
   {
     id: 'aviana-agro-lestari',
@@ -69,7 +71,8 @@ export const subsidiaries: Subsidiary[] = [
       phone: '+62 761 5555-2001',
       email: 'info@avianaagro.co.id'
     },
-    established: '2010'
+    established: '2010',
+    operationalStatus: 'Belum beroperasi'
   },
   {
     id: 'aviana-energi-nusantara',
@@ -96,7 +99,8 @@ export const subsidiaries: Subsidiary[] = [
       phone: '+62 542 5555-3001',
       email: 'info@avianaenergi.co.id'
     },
-    established: '2012'
+    established: '2012',
+    operationalStatus: 'Belum beroperasi'
   },
   {
     id: 'aviana-mineral-resources',
@@ -123,7 +127,8 @@ export const subsidiaries: Subsidiary[] = [
       phone: '+62 541 5555-4001',
       email: 'info@avianamineral.co.id'
     },
-    established: '2008'
+    established: '2008',
+    operationalStatus: 'Belum beroperasi'
   },
   {
     id: 'aviana-telekomindo-global',
@@ -150,7 +155,8 @@ export const subsidiaries: Subsidiary[] = [
       phone: '+62 22 5555-5001',
       email: 'info@avianatelecom.co.id'
     },
-    established: '2013'
+    established: '2013',
+    operationalStatus: 'Belum beroperasi'
   },
   {
     id: 'aviana-karya-sejahtera',
@@ -177,7 +183,8 @@ export const subsidiaries: Subsidiary[] = [
       phone: '+62 31 5555-6001',
       email: 'info@avianakarya.co.id'
     },
-    established: '2009'
+    established: '2009',
+    operationalStatus: 'Belum beroperasi'
   }
 ];
 

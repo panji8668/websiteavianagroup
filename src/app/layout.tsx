@@ -17,16 +17,7 @@ export const metadata: Metadata = {
   title: "Aviana",
   
   description: "Aviana Group is a leading multi-sector corporation operating in Technology, Finance, Energy & Mining, Plantation, Telecommunications, and Infrastructure sectors.",
-  icons: {
-    icon: [
-      { url: '/favicon.ico', sizes: '32x32', type: 'image/x-icon' },
-      { url: '/favicon.svg', type: 'image/svg+xml' },
-    ],
-    shortcut: '/favicon.ico',
-    apple: [
-      { url: '/icon-192.svg', sizes: '192x192', type: 'image/svg+xml' }
-    ],
-  }
+  icons: "/favicon.ico",
 };
 
 export default function RootLayout({

@@ -53,6 +53,14 @@ export default async function SubsidiaryPage({ params }: PageProps) {
             <span>Didirikan: {subsidiary.established}</span>
             <span>•</span>
             <span>Sektor: {subsidiary.sector}</span>
+            <span>•</span>
+            <span className={`px-2 py-1 rounded-full text-xs font-medium ${
+              subsidiary.operationalStatus === 'Beroperasi' 
+                ? 'bg-green-100 text-green-800' 
+                : 'bg-yellow-100 text-yellow-800'
+            }`}>
+              {subsidiary.operationalStatus}
+            </span>
           </div>
         </div>
 

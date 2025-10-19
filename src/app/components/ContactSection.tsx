@@ -77,7 +77,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold mb-2">Email</h4>
-                  <p className="text-gray-300">info@avianagroup.com</p>
+                  <p className="text-gray-300">info@aviana.co.id</p>
                 </div>
               </div>
 

@@ -13,6 +13,16 @@ export default function OurBusinessesSection() {
           <article key={subsidiary.id} className="p-6 border rounded-lg hover:shadow-lg transition-shadow bg-white">
             <h3 className="text-xl font-semibold text-gray-800">{subsidiary.name}</h3>
             <p className="text-sm text-blue-700 font-medium mt-1">{subsidiary.sector}</p>
+            <div className="flex items-center mt-2 mb-3">
+              <span className="text-sm text-gray-500 mr-2">Status:</span>
+              <span className={`text-xs px-2 py-1 rounded-full font-medium ${
+                subsidiary.operationalStatus === 'Beroperasi' 
+                  ? 'bg-green-100 text-green-800' 
+                  : 'bg-yellow-100 text-yellow-800'
+              }`}>
+                {subsidiary.operationalStatus}
+              </span>
+            </div>
             <p className="text-gray-600 mt-3 mb-4">{subsidiary.shortDesc}</p>
             <Link 
               href={`/businesses/${subsidiary.id}`}

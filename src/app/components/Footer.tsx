@@ -68,7 +68,7 @@ export default function Footer() {
             <div className="space-y-2 text-gray-300">
               <p>Jakarta, Indonesia</p>
               <p>Phone: +62 21 xxxx xxxx</p>
-              <p>Email: info@avianagroup.com</p>
+              <p>Email: info@aviana.co.id</p>
             </div>
           </div>
         </div>

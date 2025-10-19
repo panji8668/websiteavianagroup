@@ -1,37 +1,37 @@
 export default function SectorsSection() {
   const sectors = [
     {
-      title: "Teknologi",
+      title: "Technology",
       description: "Mengembangkan solusi teknologi inovatif untuk transformasi digital dan digitalisasi bisnis.",
       icon: "💻",
       features: ["Software Development", "Digital Solutions", "AI & Machine Learning", "Cloud Services"]
     },
     {
-      title: "Keuangan",
+      title: "Finance",
       description: "Menyediakan layanan keuangan komprehensif untuk mendukung pertumbuhan ekonomi.",
       icon: "🏦",
       features: ["Banking Services", "Investment Management", "Financial Advisory", "Insurance"]
     },
     {
-      title: "Energi & Tambang",
+      title: "Energy & Mining",
       description: "Mengeksplorasi dan mengembangkan sumber daya energi dan mineral secara berkelanjutan.",
       icon: "⚡",
       features: ["Oil & Gas", "Mining Operations", "Renewable Energy", "Resource Management"]
     },
     {
-      title: "Perkebunan",
+      title: "Agriculture",
       description: "Mengelola perkebunan dengan praktik pertanian berkelanjutan dan ramah lingkungan.",
       icon: "🌱",
       features: ["Palm Oil", "Sustainable Agriculture", "Crop Management", "Agro Technology"]
     },
     {
-      title: "Telekomunikasi",
+      title: "Telecommunications",
       description: "Menyediakan infrastruktur dan layanan telekomunikasi untuk konektivitas global.",
       icon: "📡",
       features: ["Network Infrastructure", "Telecommunication Services", "5G Technology", "IoT Solutions"]
     },
     {
-      title: "Infrastruktur",
+      title: "Infrastructure",
       description: "Membangun infrastruktur berkualitas tinggi untuk mendukung pembangunan nasional.",
       icon: "🏗️",
       features: ["Construction", "Transportation", "Public Works", "Smart City Solutions"]

@@ -23,7 +23,7 @@ export default function HeroSection() {
       subtitle: "PT Aviana Teknologi Nusantara",
       description: "Pioneering digital transformation with cutting-edge software solutions, cloud infrastructure, and AI-powered innovations.",
       sector: "Technology",
-      bgImage: "https://plus.unsplash.com/premium_photo-1683121723153-718d3c56d93e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2232",
+      bgImage: "https://plus.unsplash.com/premium_photo-1742710726634-18e31a278fc2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2000",
       textColor: "text-white",
       buttonColor: "bg-white text-blue-900 hover:bg-gray-100"
     },
@@ -33,7 +33,7 @@ export default function HeroSection() {
       subtitle: "PT Aviana Energi Nusantara",
       description: "Leading the clean energy transition with solar, wind, and hydroelectric power solutions for a sustainable future.",
       sector: "Energy",
-      bgImage: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+      bgImage: "https://plus.unsplash.com/premium_photo-1679917152317-170f1613fbfe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2532",
       textColor: "text-white",
       buttonColor: "bg-white text-green-800 hover:bg-gray-100"
     },
