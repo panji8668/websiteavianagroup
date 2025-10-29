@@ -17,56 +17,6 @@ export default function CareersPage() {
       type: "Full-time",
       experience: "3-5 years",
       description: "Develop and maintain scalable web applications using modern frameworks and cloud technologies."
-    },
-    {
-      id: 2,
-      title: "Sustainability Manager",
-      department: "Corporate",
-      company: "Aviana Group",
-      location: "Jakarta",
-      type: "Full-time",
-      experience: "5+ years",
-      description: "Lead sustainability initiatives across all business units and ensure compliance with environmental standards."
-    },
-    {
-      id: 3,
-      title: "Renewable Energy Engineer",
-      department: "Energy",
-      company: "PT Aviana Energi Nusantara",
-      location: "Balikpapan",
-      type: "Full-time",
-      experience: "2-4 years",
-      description: "Design and optimize renewable energy systems including solar, wind, and hydroelectric power plants."
-    },
-    {
-      id: 4,
-      title: "Agricultural Specialist",
-      department: "Agriculture",
-      company: "PT Aviana Agro Lestari",
-      location: "Riau",
-      type: "Full-time",
-      experience: "3+ years",
-      description: "Implement sustainable farming practices and manage crop optimization programs."
-    },
-    {
-      id: 5,
-      title: "Network Infrastructure Specialist",
-      department: "Telecommunications",
-      company: "PT Aviana Telekomindo Global",
-      location: "Bandung",
-      type: "Full-time",
-      experience: "2-5 years",
-      description: "Deploy and maintain fiber optic networks and telecommunications infrastructure."
-    },
-    {
-      id: 6,
-      title: "Project Manager",
-      department: "Infrastructure",
-      company: "PT Aviana Karya Sejahtera",
-      location: "Surabaya",
-      type: "Full-time",
-      experience: "5+ years",
-      description: "Lead construction projects from planning to completion, ensuring quality and timeline adherence."
     }
   ];
 
