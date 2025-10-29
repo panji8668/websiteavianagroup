@@ -67,7 +67,7 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <div className="space-y-2 text-gray-300">
               <p>Bali, Indonesia</p>
-              <p>Phone: +62 21 xxxx xxxx</p>
+              <p>Phone: +62361232045</p>
               <p>Email: info@aviana.co.id</p>
             </div>
           </div>
