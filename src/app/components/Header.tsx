@@ -44,11 +44,11 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
               <Image
-                src="/logoasa.png"
+                src="/logoaviana.png"
                 alt="Aviana Group"
                 width={120}
-                height={50}
-                className="h-8 w-auto"
+                height={80}
+                className="h-6 w-auto"
                 priority
               />
             </Link>
